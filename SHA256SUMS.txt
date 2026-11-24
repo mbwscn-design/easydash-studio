@@ -1,1 +1,2 @@
 c7910d06d931369e1eb1899c87c1d9ee019a97718669f43c7789c88b40f63692  downloads/EasyDash-Studio-0.2.7-build13-macOS.zip
+3a4d61fddc3b67f9e55fe4aa5eec22bd9c9f7c535a4b47d0045c8bbb7ac79212  downloads/EasyDash-Studio-0.2.7-build13-windows-x64.zip
